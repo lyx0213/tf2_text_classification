@@ -1,8 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Time:2021/1/25 14:45
-# @Auther :lizhe
 # @File：TextRNN2.py
-# @Email:bylz0213@gmail.com
 
 
 import tensorflow as tf

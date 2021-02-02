@@ -1,8 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Time:2021/1/21 11:23
-# @Auther :lizhe
 # @File：FastText.py
-# @Email:bylz0213@gmail.com
 
 import tensorflow as tf
 

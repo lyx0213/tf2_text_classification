@@ -1,8 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Time:2021/1/25 18:23
-# @Auther :lizhe
 # @File：data_process.py
-# @Email:bylz0213@gmail.com
 import os
 import random
 import pickle as pkl

@@ -1,8 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Time:2021/1/26 18:43
-# @Auther :lizhe
 # @File：predict_label.py
-# @Email:bylz0213@gmail.com
 import pickle
 import numpy as np
 import tensorflow as tf

@@ -1,8 +1,6 @@
 #-*- coding:utf-8 -*-
 # @Time:2021/1/19 16:46
-# @Auther :lizhe
 # @File：main.py
-# @Email:bylz0213@gmail.com
 
 
 import os
